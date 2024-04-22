@@ -12,6 +12,7 @@ Gera aleatoriamente trechos de uma musica e seu autor
 - HTML
 - CSS
 - JAVASCRIPT
+- BOOTSTRAP
 - Git e Github
 
 ## Contato
